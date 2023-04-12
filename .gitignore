@@ -1,0 +1,14 @@
+# Ignore everything by default
+*
+
+# Allow folders
+!*/
+
+# Allow Files
+!*.cs
+!.gitignore
+!LICENSE
+!*.md
+
+# Allow Makefile
+!Makefile
